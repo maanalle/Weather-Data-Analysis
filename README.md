@@ -50,8 +50,8 @@ Option 2: Download the ZIP<br>
 -Open the directory in your terminal and install the dependencies as mentioned above.<br>
 
 <h4>Running the Notebook</h4><br>
-1-Ensure you have Jupyter Notebook or JupyterLab installed.<br>
-2-Launch Jupyter Notebook:<br>jupyter notebook<br>
+1-Ensure you have Jupyter /Collab Notebook or JupyterLab installed.<br>
+2-Launch Jupyter/Collab Notebook:<br>jupyter notebook<br>
 3-Open the Weather Data Analysis.ipynb file and run the cells sequentially.<br>
 
 #Usage and Visualizations<br>
