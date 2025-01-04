@@ -31,23 +31,7 @@ This project uses the following technologies:<br>
 -Seaborn: Data visualization.<br>
 -Matplotlib: Plotting graphs and charts.<br>
 <br>
-#Getting Started<br>
-To get a local copy of this project up and running, follow these steps.<br>
 
-<h4>Installation Steps</h4><br>
-Option 1: Clone from GitHub<br>
-
-Open your terminal and navigate to the directory where you'd like to clone the project.<br>
-Clone the repository:<br>
--git clone https://github.com/maanalle/Weather-Data-Analysis.git  <br>
--Navigate into the project directory:<br>cd Weather-Data-Analysis
--Install required dependencies:<br>pip install -r requirements.txt  <br>
-<br>
-Option 2: Download the ZIP<br>
-
--Download the repository as a ZIP file from GitHub.<br>
--Extract the ZIP file to your desired directory.<br>
--Open the directory in your terminal and install the dependencies as mentioned above.<br>
 
 <h4>Running the Notebook</h4><br>
 1-Ensure you have Jupyter /Collab Notebook or JupyterLab installed.<br>
